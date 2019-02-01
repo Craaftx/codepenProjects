@@ -1,0 +1,120 @@
+{
+  "items": {
+    "EGmPYV": {
+      "title": "Pixel Widowmaker (Box-Shadow, No Js)",
+      "description": "I try to create something different with the use of box shadow + CSS variables + Checkbox Hack. Bye Bye Javascript.<br><br>Widowmaker is the archetypical sniper of Overwatch. Equipped with a powerful scoped rifle, she is capable of taking down the majority of the heroes with a single fully-charged headshot",
+      "tags": ["boxshadow","variable","overwatch","css","checkboxhack"]
+    },
+    "JwEqwQ": {
+      "title": "CPC - Fireplace",
+      "description": "CodePen Challenge - December 2018 Week Three.<br><br>What is it about a fireplace that draws you to its flame? Is it the warmth created like a sun that came and shone upon your body with the intensity of heat? Or is it the comfortable feeling which makes you feel replete?<br><br>The flicker and the crackle, the sizzle that you hear invites your senses to remain close to the hearth and peer hypnotically tranquilized quietly taking a rest like a bird in sunshine in a cozy, cozy nest.<br><br>The Fireplace Edwina Reizer<br><br>Recreated with CSS from : https://design.tutsplus.com/hr/tutorials/how-to-create-a-festive-christmas-fireplace-in-affinity-designer--cms-27766<br><br>Thanks :nth-child() ... <3",
+      "tags": ["christmas"," flatdesign","fireplace","onlycss","socks"]
+    },
+    "GPJVOx": {
+      "title": "Sleepy Droplet",
+      "description": "CodePen Challenge - December 2018 Week Two.<br><br>It seems that this droplet is really tired, created with CSS.",
+      "tags": ["cpc-water","codepenchallenge","water","droplet","css"]
+    },
+    "yQGpwa": {
+      "title": "Magdiellop 216 recreated with CSS",
+      "description": "Recreated Magdiellop 216 with CSS and add a parallax effect !<br><br>From : http://www.magdiellopez.com/a-poster-a-day-v2-1/pcaj6lyntffy2qud30qmxxv9dgu968<br><br>Optimised for Google Chrome, some problems appear on Mozilla with background-clip: text;",
+      "tags": ["parallax","css","retro","magdiellop","js"]
+    },
+    "YROxzd": {
+      "title": "CPC - Happy little dinosaur",
+      "description": "CodePen Challenge - November 2018 Week Four.<br><br>This cute little Dino is so happy that you bring him some attention.<br><br>Created with CSS (and I tried Pug), some bugs can appear on the animation, click on the window to solve it",
+      "tags": ["cpc-dinosaurs","codepenchallenge","cssonly","cute","dinosaur"]
+    },
+    "WYMEOP": {
+      "title": "Surprised Pikachu Meme (Only CSS)",
+      "description": "Re-create popular meme of surprised Pikachu with Only CSS. I have a dream that one day CSS is recognized as a great skill for an IT recruiter :')<br><br>Have a nice day !",
+      "tags": ["onlycss","meme","surprise pikachu","pokemon","masks"]
+    },
+    "qQPQvX": {
+      "title": "OnlyCSS - Night ride in the city",
+      "description": "Created city and parallax effect with CSS inspired from Overwatch map King's Row like other creation.",
+      "tags": ["overwatch","kingsrow","css","parallax","animation"]
+    },
+    "rQmEvG": {
+      "title": "Simply Square Loader",
+      "description": "Testing for animation",
+      "tags": ["css","animated","square","blue"]
+    },
+    "gQLQqW": {
+      "title": "OnlyCSS - Decorative objects",
+      "description": "Created some Decorative objects with only CSS inspired from Overwatch map King's Row.",
+      "tags": ["cssonly","css","overwatch","decorative","animate"]
+    },
+    "eQzzLm": {
+      "title": "CSS - Loader with King's Row Payload",
+      "description": "Created an EMP Payload with only CSS and use it as loading effect.<br><br>It come from Overwatch who King's Row is a Hybrid map, the map's gameplay involves escorting the EMP device into the omnic city.",
+      "tags": ["css","loader","overwatch","payload","animate"]
+    },
+    "JeXoKL": {
+      "title": "CSS Tracer - #Overwatch",
+      "description": "Running Tracer created only with CSS.<br><br>The former Overwatch agent known as Tracer is a time-jumping adventurer and an irrepressible force for good. She hails from London, and has traveled all over the world.",
+      "tags": ["onlycss","tracer","overwatch","animate","morecomingsoon"]
+    },
+    "PxPMeN": {
+      "title": "CPC-Jellyfish - Tentacool",
+      "description": "CodePen Challenge - November 2018 Week One.<br><br>Only CSS Tentacool, Tentacool resembles a box jellyfish. It has a light blue, clear body with two large, transparent, red crystals on each side of its body, and one small one in the middle. It has two small eyes with black pupils and no visible irises near the base of its body. It uses its two tentacles laced with stinging cells to poison its prey.",
+      "tags": ["cpc-jellyfish","codepenchallenge","pokemon","onlycss","tricky"]
+    },
+    "PxqBoV": {
+      "title": "CSS - Play with my Hand",
+      "description": "I created a hand with CSS only and add some animations.<br><br>I need to improve the movement of the fingers.",
+      "tags": ["hand","animate","css","paper rock scissors"]
+    },
+    "MPNZEY": {
+      "title": "Codevember #1 - Infinity",
+      "description": "Codevember 2018 for the theme Infinity.",
+      "tags": ["codevember","css","infinity"]
+    },
+    "EdMpvm": {
+      "title": "CPC - Sugar World",
+      "description": "CodePen Challenge - October 2018 Week Four.<br><br>This week I decided to create a sugar world with lollipop trees.",
+      "tags": ["cpc-trick-or-treat","codepenchallenge","sugar","candy","css"]
+    },
+    "ZqrvvM": {
+      "title": "CPC-SKELETONS - Emotional Skeleton",
+      "description": "CodePen Challenge - October 2018 Week Three This week I decided to create a skeleton with some facial expressions.",
+      "tags": ["CPC-SKELETONS","codepenchallenge","css","skull","animation"]
+    },
+    "JmJyVZ": {
+      "title": "Floating Island",
+      "description": "Floating island with Only CSS and using LESS with random values for create wood and wall textures.<br><br>Inspired by some pictures from Google Pictures.",
+      "tags": ["house","cssonly","animate","forest","random"]
+    },
+    "vVmYWp": {
+      "title": "CPC-MASKS - I Want to Play A Game",
+      "description": "CodePen Challenge - October 2018 Week Two Only CSS JigSaw Mask. John Kramer aka Jigsaw or the Killer Puzzle is a fictional character from the Saw movie series.",
+      "tags": ["cpc-masks","codepenchallenge","saw","cssonly","horror"]
+    },
+    "aRZbBR": {
+      "title": "CPC - Am I a pretty ghost?",
+      "description": "CodePen Challenge - October 2018 Week One Only CSS ghost with JS for some animation sequence. <br><br>A ghost is an apparition, a vision or an illusion, interpreted as a supernatural manifestation of a deceased person, but it can be cute.",
+      "tags": ["cpc-ghosts","codepenchallenge","css","ghost","animate"]
+    },
+    "qJdJmw": {
+      "title": "Room Selector",
+      "description": "Inspired by the work of Gal Shir (@galgalshir), I try to recreate it with only CSS for drawing and JavaScript for animation sequences.",
+      "tags": ["cssonly","house","gal shir","animate","css"]
+    },
+    "dgyJXr": {
+      "title": "CPC-408 / 408 Timeout",
+      "description": "CodePen Challenge - September 2018 Week Four The 408 Request Timeout is an HTTP response status code indicating that the server did not receive a complete request from the client within the server’s allotted timeout period.",
+      "tags": ["codepenchallenge","cssonly","cpc-408","css","character"]
+    },
+    "oPKqoJ": {
+      "title": "Only CSSpaceman",
+      "description": "This is the first CSS Only character I created it can be improved, I work on it",
+      "tags": ["cssonly","spaceman","astronaut","css","animation"]
+    },
+    "PdmbXo": {
+      "title": "Playing Cards",
+      "description": "Create cards with CSS + Vue.js",
+      "tags": ["cards","css","vue"]
+    }
+  },
+  "span_selector": [0,9,12]
+}
